@@ -525,6 +525,11 @@ figure.effect-lexi p {
     -webkit-clip-path: polygon(0 0, 82% 0, 100% 100%, 15% 100%);
     clip-path: polygon(0 0, 82% 0, 100% 100%, 15% 100%);
   }
+
+  figure.effect-lexi figcaption::before {
+    width: 330px;
+    height: 330px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -612,6 +617,15 @@ figure.effect-lexi p {
   figure.effect-lexi figcaption::before {
     right: -110px;
     bottom: -80px;
+  }
+
+  figure.effect-lexi figcaption::before {
+    width: 300px;
+    height: 300px;
+  }
+
+  figure.effect-lexi p {
+    font-size: 14px;
   }
 }
 
