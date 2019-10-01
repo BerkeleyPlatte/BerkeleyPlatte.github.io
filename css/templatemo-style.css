@@ -1,8 +1,6 @@
 /*
 
-Beauty Template
 
-http://www.templatemo.com/tm-519-beauty
 
 ---------------------------------------
 
@@ -248,7 +246,7 @@ p {
   background-color: slategray;
 }
 .tm-bg-accent {
-  background-color: indianred
+  background-color: indianred;
 }
 
 .tm-section-3-left {
@@ -448,7 +446,7 @@ figure.effect-lexi p {
   -webkit-transform: translate3d(20px, 20px, 0);
   transform: translate3d(20px, 20px, 0);
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-  transition: opacity 0.35s, transform 0.35
+  transition: opacity 0.35s, transform 0.35;
 }
 
 .reverse-lexi {
@@ -462,7 +460,7 @@ figure.effect-lexi p {
   -webkit-transform: translate3d(20px, 20px, 0);
   transform: translate3d(20px, 20px, 0);
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-  transition: opacity 0.35s, transform 0.35
+  transition: opacity 0.35s, transform 0.35;
 }
 
 figure.effect-lexi img {
@@ -573,7 +571,7 @@ figure.effect-lexi p {
   }
 
   .my_class {
-    font-size: 25px
+    font-size: 25px;
   }
 }
 
